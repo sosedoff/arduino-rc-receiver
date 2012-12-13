@@ -25,8 +25,8 @@ Connect receiver directly to arduino's power +5V and GND, compile and upload.
 
 In the terminal monitor you'll see something like this:
 
-![Log](./log.png)
+![Log](https://raw.github.com/sosedoff/arduino-rc-receiver/master/log.png)
 
 Example:
 
-![RC](./photo.jpg)
+![RC](https://raw.github.com/sosedoff/arduino-rc-receiver/master/photo.jpg)
